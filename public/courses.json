@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "course_image": "../src/assets/images/Rectangle 2.png",
+      "course_title": "Introduction to Python Programming",
+      "short_description": "Learn the fundamentals of Python programming language, including basic syntax, data structures, and control flow.",
+      "price": 49.99,
+      "credits": 3
+    },
+    {
+      "id": 2,
+      "course_image": "../src/assets/images/Rectangle 2-1.png",
+      "course_title": "Web Development Bootcamp",
+      "short_description": "A comprehensive course covering HTML, CSS, JavaScript, and popular web development frameworks like React and Node.js.",
+      "price": 79.99,
+      "credits": 5
+    },
+    {
+      "id": 3,
+      "course_image": "../src/assets/images/Rectangle 2-2.png",
+      "course_title": "Data Science Fundamentals",
+      "short_description": "Explore the basics of data science, including statistical analysis, machine learning, and data visualization techniques.",
+      "price": 69.99,
+      "credits": 4
+    },
+    {
+      "id": 4,
+      "course_image": "../src/assets/images/Rectangle 2-3.png",
+      "course_title": "Introduction to Artificial Intelligence",
+      "short_description": "Discover the principles of artificial intelligence, neural networks, and deep learning algorithms.",
+      "price": 89.99,
+      "credits": 6
+    },
+    {
+      "id": 5,
+      "course_image": "../src/assets/images/Rectangle 2-4.png",
+      "course_title": "Graphic Design Essentials",
+      "short_description": "Learn the fundamentals of graphic design, including typography, color theory, and layout principles.",
+      "price": 59.99,
+      "credits": 4
+    },
+    {
+      "id": 6,
+      "course_image": "../src/assets/images/Rectangle 2-5.png",
+      "course_title": "Mobile App Development with Flutter",
+      "short_description": "Build cross-platform mobile apps using the Flutter framework, covering UI design, state management, and deployment.",
+      "price": 74.99,
+      "credits": 5
+    },
+    {
+      "id": 7,
+      "course_image": "../src/assets/images/Rectangle 2-6.png",
+      "course_title": "Introduction to Blockchain Technology",
+      "short_description": "Explore the fundamentals of blockchain technology, cryptocurrencies, and smart contracts.",
+      "price": 64.99,
+      "credits": 4
+    },
+    {
+      "id": 8,
+      "course_image": "../src/assets/images/Rectangle 3-1.png",
+      "course_title": "Digital Marketing Strategies",
+      "short_description": "Master digital marketing techniques including SEO, social media marketing, email campaigns, and analytics.",
+      "price": 54.99,
+      "credits": 3
+    },
+    {
+      "id": 9,
+      "course_image": "../src/assets/images/Rectangle 3.png",
+      "course_title": "Introduction to Cloud Computing",
+      "short_description": "Learn about cloud computing services, infrastructure as a service (IaaS), platform as a service (PaaS), and more.",
+      "price": 59.99,
+      "credits": 4
+    }
+  ]
+  
