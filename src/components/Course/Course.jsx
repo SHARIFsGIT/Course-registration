@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 
-const Course = ({course, handleSelectCourses}) => {
+const Course = ({course, handleSelectCourses }) => {
     const {course_image, course_title, short_description, price, credits} = course;
     return (
         <div className="card w-auto mx-auto md:mx-auto bg-[whitesmoke] rounded-lg">
@@ -28,7 +28,7 @@ const Course = ({course, handleSelectCourses}) => {
 
 Course.propTypes = {
     course: PropTypes.object.isRequired,
-    handleSelectCourses: PropTypes.func.isRequired
+    handleSelectCourses: PropTypes.func.isRequired,
 };
 
 export default Course;
